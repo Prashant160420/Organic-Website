@@ -1,0 +1,26 @@
+.footer {
+    background-color: $text-color;
+    color: $white;
+    padding: 2rem 0;
+
+    &__container {
+        text-align: center;
+    }
+
+    &__info {
+        font-size: 0.9rem;
+    }
+
+    &__company {
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+    }
+
+    &__address {
+        margin-bottom: 0.5rem;
+    }
+
+    &__copyright {
+        font-size: 0.8rem;
+    }
+}
